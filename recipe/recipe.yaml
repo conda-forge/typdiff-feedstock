@@ -1,5 +1,5 @@
 context:
-  version: "0.1.1"
+  version: "0.1.2"
 
 package:
   name: typdiff
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/sou1118/typdiff/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 37170bd94017c75873690eb7760857610c0ad7cd521baa40c1fa4f2efb8e3175
+  sha256: 5630dab0bc732ae6a7ff942a8f83bb86abd5702e6c33ecd34eadc0720c2c38b3
 
 build:
   number: 0
