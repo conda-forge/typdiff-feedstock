@@ -10,7 +10,7 @@ source:
   sha256: ed9b0415a318df8d824cc01e145e22b16b3ce5f4ffa7435947fd37e8273603da
 
 build:
-  number: 0
+  number: 1
   script:
     env:
       CARGO_PROFILE_RELEASE_STRIP: symbols
